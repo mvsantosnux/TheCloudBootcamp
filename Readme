@@ -1,0 +1,17 @@
+#Leia-me#
+Este repositório reúne todos os projetos desenvolvidos durante meu Bootcamp e minha Pós-Graduação. Aqui você encontrará aplicações práticas, exercícios, estudos de caso e desafios que refletem minha evolução.
+🎯 Objetivo
+- Centralizar os projetos acadêmicos e práticos em um único espaço.
+- Demonstrar habilidades adquiridas em programação, análise de dados e desenvolvimento de software.
+- Servir como portfólio para futuras oportunidades profissionais.
+📂 Estrutura
+- Bootcamp/ → Projetos e desafios realizados no programa intensivo.
+- PosGraduacao/ → Trabalhos e projetos acadêmicos da pós-graduação.
+- Extras/ → Estudos complementares, experimentos e protótipos.
+🚀 Tecnologias utilizadas
+- Python, JavaScript, Node.js
+- Frameworks como React, Django, Flask
+- Banco de dados SQL e NoSQL
+- Ferramentas de versionamento e CI/CD
+📖 Como navegar
+Cada pasta contém um README próprio explicando o contexto, objetivos e instruções de execução de cada projeto.

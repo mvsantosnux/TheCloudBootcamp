@@ -1,8 +1,9 @@
 #!/bin/bash
 # Proposito: Automatiza a criaÃ§Ã£o de usuÃ¡rios na AWS
 # Utilizacao: ./aws-iam-cria-usuario.sh <formato arquivo entrada .csv>
+#CSV separado por virgula padrao windows, por isso usar o dos2unix
 # Formato do arquivo de entrada: usuarios,grupo,senha
-# Autor: Jean Rodrigues
+#  @mvsantos
 # ------------------------------------------
 
 INPUT=$1
@@ -25,5 +26,6 @@ do
     
 
 done < $INPUT
+
 
 IFS=$OLDIFS
